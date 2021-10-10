@@ -6,7 +6,7 @@ when dealing with credit, we are dealing with an inherently unbalanced classific
 Therefore, we will employ different techniques to train and evaluate models with unbalanced classes and conclude which if any model can be used to predict credit risk. 
 
 # Results
-# Accuracy Precision and Recall Scores
+# Accuracy, Precision and Recall Scores
 ## NaiveRandomOversampling
 
 <img src="Resources/images/naive_random_os.png" width="722" height="123" /><br><br>
