@@ -3,16 +3,41 @@
 ## Results
 # Accuracy Scores
 <img src="Resources/images/accuracy.png" width="500" height="225" /><br><br>
-# Precision and Recall Scores
+# Accuracy Precision and Recall Scores
 ### NaiveRandomOversampling
-<img src="Resources/images/naive_random_os.png" width="722" height="123" /><br><br>
+**Accuracy Score :** 0.65<br><br>
+<img src="Resources/images/naive_random_os.png" width="722" height="123" />
+
+#### Summary of Results
+
 ### SMOTE Oversampling
-<img src="Resources/images/smote_os.png" width="722" height="123" /><br><br>
+**Accuracy Score :** 0.62<br><br>
+<img src="Resources/images/smote_os.png" width="722" height="123" />
+
+#### Summary of Results
+
 ### ClusterCentroids
-<img src="Resources/images/cluster_os.png" width="722" height="123" /><br><br>
+**Accuracy Score :** 0.53<br><br>
+<img src="Resources/images/cluster_os.png" width="722" height="123" />
+
+#### Summary of Results
+
 ### SMOTEENN
-<img src="Resources/images/smoteenn_os.png" width="722" height="123" /><br><br>
+**Accuracy Score :** 0.64<br><br>
+<img src="Resources/images/smoteenn_os.png" width="722" height="123" />
+
+#### Summary of Results
+
 ### BalancedRandomForestClassifier
-<img src="Resources/images/forest_os.png" width="722" height="123" /><br><br>
+**Accuracy Score :** 0.64<br><br>
+<img src="Resources/images/forest_os.png" width="722" height="123" />
+
+#### Summary of Results
+
 ### EasyEnsembleClassifier
-<img src="Resources/images/ensemble_os.png" width="722" height="123" /><br><br>
+**Accuracy Score :** 0.93<br><br>
+<img src="Resources/images/ensemble_os.png" width="722" height="123" />
+
+#### Summary of Results
+
+
