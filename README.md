@@ -5,7 +5,7 @@ The purpose of this project is to build and evaluate models using resampling. We
 when dealing with credit, we are dealing with an inherently unbalanced classification problem, as good loans easily outnumber risky loans.
 Therefore, we will employ different techniques to train and evaluate models with unbalanced classes and conclude which if any model can be used to predict credit risk. 
 
-## Results
+# Results
 # Accuracy Precision and Recall Scores
 ## NaiveRandomOversampling
 
